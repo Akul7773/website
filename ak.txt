@@ -1,0 +1,6 @@
+  <span>Welcome to SAE NIT KURUKSHETRA !   </span>
+            <span  >Autokriti 13.0 coming soon !!</span>
+            <span >HURRY UP ! Campus ambassador registrations  are open !</span>
+            <span  ><a href="https://www.saenitkurukshetra.in/autokriti#ambassador">CLICK HERE</a>
+                To register as Campus Ambassador. </span> 
+                  <div ><span><a style="color: red;margin-left: 10px;" href="/#" target="_blank">See all➡️ </a></span></div>
